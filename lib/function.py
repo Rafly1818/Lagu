@@ -201,10 +201,10 @@ def sistemLogin():
 
 def sistemPembuka():
     sistem("clear")
-    cetak("\t\t\t[ Sekedar coba-coba ]\n\t")
+    cetak("\t\t\t[ Tes lagu ]\n\t")
     gerakGaris()
-    cetak("\n\tNama\t : Rivai")
-    cetak("\tNIM\t : 20230801290\t")
+    cetak("\n\tNama\t : Rafly")
+    cetak("\tNIM\t : 20230801401\t")
     gerakGaris()
     sistemLogin();
     playPemutaranLagu()
