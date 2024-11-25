@@ -32,7 +32,3 @@ COMING SOON
 ------
 - Fixing Path <br>
 
-SOSIAL MEDIA
-------
-- Instagram : [@rivaimunte02](https://instagram.com/rivaimunte02)
-- Gitlab : [@teamanubot](https://gitlab.com/teamanubot)
